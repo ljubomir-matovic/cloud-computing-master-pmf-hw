@@ -6,7 +6,8 @@ dist/
 *.js.map
 *.d.ts
 
-!prvi domaci - Docker/index.js
+!prvi-domaci-Docker/index.js
+!drugi-domaci-Docker/backend/index.js
 
 # C#
 obj/
